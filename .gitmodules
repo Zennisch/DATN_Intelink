@@ -1,0 +1,6 @@
+[submodule "DATN_Intelink_Frontend"]
+	path = DATN_Intelink_Frontend
+	url = https://github.com/Zennisch/DATN_Intelink_Frontend
+[submodule "DATN_Intelink_Backend"]
+	path = DATN_Intelink_Backend
+	url = https://github.com/Zennisch/DATN_Intelink_Backend
